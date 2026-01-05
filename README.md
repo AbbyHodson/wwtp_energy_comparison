@@ -15,9 +15,9 @@ Data Sources:
 *   U.S. Energy Information Administration Survey Form EIA-923, 2012
 ([U.S. EIA, 2012](https://www.eia.gov/electricity/data/eia923/))
 *   Water Environment Federation Biogas Database ([WEF, 2024](https://app.powerbi.com/view?r=eyJrIjoiMGFjZDFjZmItMjQ5Yi00ZTlhLWJmNTQtODFiNjlkYjFlODJjIiwidCI6ImI3ZTk3ODAyLTJhNjktNDc3ZS1iN2QyLWY0ZDE2MWMyMTBjYiIsImMiOjF9))
-*   Electric Power Research Institute (EPRI) Electricity Intensity Based on Flow Rate, ETL, and Key Unit Processes ([Pabi et. al, 2013](https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/electricity_use_and_management_in_the_municipal_water_supply_and_wastewater_industries.pdf))
+*   Electric Power Research Institute (EPRI) Electricity Intensity Based on Flow Rate, ETL, and Key Unit Processes ([Pabi et al., 2013](https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/electricity_use_and_management_in_the_municipal_water_supply_and_wastewater_industries.pdf))
 *   Electricity Intensity Based on ETL ([Li et al., 2025](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00893))
-*   Electricity/Energy Intensity Based on Treatment Configuration, Original ([Tarallo et. al, 2015](https://iwaponline.com/ebooks/book/293/A-Guide-to-Net-Zero-Energy-Solutions-for-Water))
+*   Electricity/Energy Intensity Based on Treatment Configuration, Original ([Tarallo et al., 2015](https://iwaponline.com/ebooks/book/293/A-Guide-to-Net-Zero-Energy-Solutions-for-Water))
 *   Electricity/Energy Intensity Based on Treatment Configuration, Updated ( [El Abbadi et al., 2025](https://www.nature.com/articles/s44221-025-00485-w))
 *   Electricity Intensity Based on Key Unit Processes ([Plappally and Leinhard, 2012](https://www.sciencedirect.com/science/article/pii/S1364032112003541))
 *   Electricity Generation Intensity Based on Prime Mover ([EPA, 2011](https://www.epa.gov/sites/default/files/2015-07/documents/opportunities_for_combined_heat_and_power_at_wastewater_treatment_facilities_market_analysis_and_lessons_from_the_field.pdf))
